@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'my_DB',
         'USER': 'Dinesh',
         'PASSWORD': 'Dinesh',
-        'HOST': 'database-service',
+        'HOST': 'database',
         'PORT': '3306',
     }
 }
